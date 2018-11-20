@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ipfs.io -> 127.0.0.1:8080
+// @name         ipfs redirect
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  redirect ipfs gateway urls to local ipfs node
+// @description  ipfs.io/ipfs -> 127.0.0.1:8080
 // @author       You
 // @match        http*://ipfs.io/ipfs/*
 // @grant        none
